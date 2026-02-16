@@ -1,5 +1,5 @@
 import React from 'react';
-import bancos from './bancos';
+import bancos from './bancosData';
 
 function Bancos() {
   return (
